@@ -1,0 +1,22 @@
+{
+  "name": "es6-standard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konkunkut/ES6-standard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konkunkut/ES6-standard/issues"
+  },
+  "homepage": "https://github.com/konkunkut/ES6-standard#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
